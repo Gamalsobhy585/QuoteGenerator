@@ -1,0 +1,29 @@
+body{
+    background-color: #f7ede3;
+}
+.madimi-one-regular {
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.quote-container{
+    background-color: #fcfbf9;
+    color: #5c5b59;
+
+}
+.button-custom{
+    &:hover{
+        background-color: #013c03;
+
+    }
+    background-color: #0C580E;
+   
+}
+
+.brdr{
+    border: 2px solid #5c5b59;
+}
+.quote-info{
+    top: 20px;
+
+}
